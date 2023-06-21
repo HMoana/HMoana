@@ -1,3 +1,4 @@
+<img alt="Heni's Banner" src="https://github.com/HMoana/HMoana/blob/main/Banner.png" />
 <h1 align="left">✌️ The Full Stack with Hēni</h1> 
 <h4 align="left"><em>Hi 👋🏽 I'm Hēni and I am from Aotearoa New Zealand. I'm a newbie to the Full Stack world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
 <br />
