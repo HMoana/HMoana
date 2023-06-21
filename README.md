@@ -1,10 +1,10 @@
-<h1 align="center"># ✌️ The Full Stack with Heni </h1>
+<h1 align="center">✌️ The Full Stack with Heni </h1>
 <h3 align="center">'I develop, my community develops'</h3>
 
-<a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
+<a align="centre" href="https://www.linkedin.com/in/heni-kimura-b46133275/">
   <img align="centre" alt="Heni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/h.m.kimura/">
+<a align="centre" href="https://www.instagram.com/h.m.kimura/">
   <img align="centre" alt="Heni's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
@@ -29,8 +29,6 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 - BACKEND DEVELOPMENT | Express, NodeJS
 - MISCELLANEOUS | MongoDB 
 
-#
-
 ### 🧰 Languages and Technologies
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -44,26 +42,17 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-#
-
 ### 📺 Projects 
 
 - [Metro Property Listing Website](https://github.com/HMoana/Metro.git)
 - [Book Your Stay App](https://github.com/HMoana/Book-Your-Stay.git)
 - [Shopping Easy App](https://github.com/HMoana/Shopping-Easy.git)
 
-#
-
 ## 📚 Learning
 
 - Typescript
 - Backend authentications
 
-#
-
 ####  Thanks for taking a peep! ✌️ 
 
 ![wip](animation.gif)
-<!-- ![Alt text](image-1.png) -->
-
-#
