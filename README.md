@@ -43,9 +43,10 @@
 
 ### 📺 Projects 
 
-[![](https://img.shields.io/badge/-🔬%20Metro%20Listing%20Website-000)](https://github.com/HMoana/Metro.git)
-[![](https://img.shields.io/badge/-📝%20Book%20Your%20Stay%20App-000)](https://github.com/HMoana/Book-Your-Stay.git)
-[![](https://img.shields.io/badge/--🔊%20Shopping%20Easy%20App-000)](https://github.com/HMoana/Shopping-Easy.git)
+[![](https://img.shields.io/badge/-🏠%20Metro%20Listing%20Website-000)](https://github.com/HMoana/Metro.git)
+[![](https://img.shields.io/badge/-🏩%20Book%20Your%20Stay%20App-000)](https://github.com/HMoana/Book-Your-Stay.git)
+[![](https://img.shields.io/badge/-🛒%20Shopping%20Easy%20App-000)](https://github.com/HMoana/Shopping-Easy.git)
+[![](https://img.shields.io/badge/-📃%20Task%20It%20App-000)](https://github.com/HMoana/Task-It.git)
 
 #
 
