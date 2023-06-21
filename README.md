@@ -12,17 +12,17 @@
 
 Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
 
----
-
 <br />
-
-#
 
 ### 🦾 Perceived strengths = Focus
 
 - FRONT END DEVELOPMENT | ReactJS, HTML, CSS, JavaScript
 - BACKEND DEVELOPMENT | Express, NodeJS
 - MISCELLANEOUS | MongoDB 
+
+<br />
+
+#
 
 ### 🧰 Languages and Tools
 
@@ -37,7 +37,6 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
----
 
 <br />
 
@@ -47,22 +46,22 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 
 <p align="left">
     <a href="https://github.com/HMoana/Metro.git" title="Metro GitHub repository">
-    <img alt="Metro Property Listing Website" width="100px" style="padding-right:10px;" src="assets/images/1.png" />
+    <img alt="Metro Property Listing Website" width="200px" style="padding-right:10px;" src="assets/images/1.png" />
     </a>
     <a href="https://github.com/HMoana/Book-Your-Stay.git" title="Book Your Stay GitHub repository">
-    <img alt="Book Your Stay App" width="100px" style="padding-right:10px;" src="assets/images/2.png" />
+    <img alt="Book Your Stay App" width="200px"  height="100px" style="padding-right:10px;" src="assets/images/2.png" />
     </a>
     <a href="https://github.com/HMoana/Shopping-Easy.git" title="Shopping Easy GitHub repository">
-    <img alt="Shopping Easy App" width="100px" style="padding-right:10px;" src="assets/images/3.png" />
+    <img alt="Shopping Easy App" width="100px" height="100px" style="padding-right:10px;" src="assets/images/3.png" />
     </a>
 </p>
 
----
-
 <br />
+
+#
 
 ####  Thanks for taking a peep! ✌️ 
 
 ![wip](animation.gif)
-
+![Alt text](image-1.png)
 
