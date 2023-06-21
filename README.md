@@ -1,6 +1,9 @@
-# ✌️ The Full Stack with Heni 
+<h1 align="center"># ✌️ The Full Stack with Heni </h1>
+<h3 align="center">'I develop, my community develops'</h3>
 
-**`I develop, my community develops (Developer/Empath/Community)`**
+### 💬 About me
+
+**`(Developer/Empath/Community)`**
 
 - 👶🏽 Full stack newbie 
 
@@ -20,8 +23,6 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 - BACKEND DEVELOPMENT | Express, NodeJS
 - MISCELLANEOUS | MongoDB 
 
-<br />
-
 #
 
 ### 🧰 Languages and Tools
@@ -37,26 +38,20 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-
-<br />
-
 #
 
 ### 📺 Projects 
 
-<p align="left">
-    <a href="https://github.com/HMoana/Metro.git" title="Metro GitHub repository">
-    <img alt="Metro Property Listing Website" width="200px" style="padding-right:10px;" src="assets/images/1.png" />
-    </a>
-    <a href="https://github.com/HMoana/Book-Your-Stay.git" title="Book Your Stay GitHub repository">
-    <img alt="Book Your Stay App" width="100px"  height="200px" style="padding-right:10px;" src="assets/images/2.png" />
-    </a>
-    <a href="https://github.com/HMoana/Shopping-Easy.git" title="Shopping Easy GitHub repository">
-    <img alt="Shopping Easy App" width="100px" height="300px" style="padding-right:10px;" src="assets/images/3.png" />
-    </a>
-</p>
+- [Metro Property Listing Website](https://github.com/HMoana/Metro.git)
+- [Book Your Stay App](https://github.com/HMoana/Book-Your-Stay.git)
+- [Shopping Easy App](https://github.com/HMoana/Shopping-Easy.git)
 
-<br />
+#
+
+## 📚 Learning
+
+- Typescript
+- Backend authentications
 
 #
 
@@ -65,3 +60,4 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 <!-- ![wip](animation.gif) -->
 ![Alt text](image-1.png)
 
+#
