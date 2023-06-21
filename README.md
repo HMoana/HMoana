@@ -8,7 +8,15 @@
 
 - 🫤 Backend web development ~ wip 
 
+<br />
+
 Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
+
+---
+
+<br />
+
+#
 
 ### 🦾 Perceived strengths = Focus
 
@@ -37,14 +45,24 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 
 ### 📺 Projects 
 
+<p align="left">
+    <a href="https://github.com/HMoana/Metro.git" title="Metro GitHub repository">
+    <img alt="Metro Property Listing Website" width="100px" style="padding-right:10px;" src="assets/images/1.png" />
+    </a>
+    <a href="https://github.com/HMoana/Book-Your-Stay.git" title="Book Your Stay GitHub repository">
+    <img alt="Book Your Stay App" width="100px" style="padding-right:10px;" src="assets/images/2.png" />
+    </a>
+    <a href="https://github.com/HMoana/Shopping-Easy.git" title="Shopping Easy GitHub repository">
+    <img alt="Shopping Easy App" width="100px" style="padding-right:10px;" src="assets/images/3.png" />
+    </a>
+</p>
 
-[![Metro Property Listing Website](<img align="left" alt="web page" width="100px" style"padding-right:10px" src"assets/images/1.png" /> "Metro Property Listing Website")](https://github.com/HMoana/Metro.git "Metro GitHub repository")
-[![Book Your Stay App](<img align="left" alt="web page" width="100px" style"padding-right:10px" src"assets/images/2.png" /> "Book Your Stay App")](https://github.com/HMoana/Book-Your-Stay.git "Book Your Stay GitHub repository")
-[![Shopping Easy App](<img align="left" alt="web page" width="100px" style"padding-right:10px" src"assets/images/3.png" /> "Shopping Easy App")](https://github.com/HMoana/Shopping-Easy.git "Shopping Easy GitHub repository")
+---
 
-#
+<br />
 
 ####  Thanks for taking a peep! ✌️ 
 
-[wip](image.png)
+![wip](animation.gif)
+
 
