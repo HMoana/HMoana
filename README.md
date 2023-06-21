@@ -1,5 +1,5 @@
 <h1 align="left">✌️ The Full Stack with Heni </h1>
-<h3 align="left">'I develop, my community develops'</h3>
+<!-- <h3 align="left">'I develop, my community develops'</h3> -->
 <br />
 <a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
   <img alt="Heni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
