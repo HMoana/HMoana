@@ -18,12 +18,6 @@
 
 - 🫤 Backend web development ~ wip
 
-**`[🦾 Perceived strengths = Focus]`**
-
-- FRONT END DEVELOPMENT | ReactJS, HTML, CSS, JavaScript
-- BACKEND DEVELOPMENT | Express, NodeJS
-- MISCELLANEOUS | MongoDB 
-
 #
 
 ### 🧰 Languages and Technologies
