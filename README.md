@@ -1,5 +1,5 @@
 <h1 align="left">✌️ The Full Stack with Heni </h1>
-<!-- <h3 align="left">'I develop, my community develops'</h3> -->
+<h3 align="left">Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</h3>
 <br />
 <a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
   <img alt="Heni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -17,10 +17,6 @@
 - 💪🏽 Frontend web development ~ somewhat confident
 
 - 🫤 Backend web development ~ wip
-
-
-    Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
-
 
 ### 🦾 Perceived strengths = Focus
 
