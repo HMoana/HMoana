@@ -30,7 +30,7 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-plain.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -49,10 +49,10 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
     <img alt="Metro Property Listing Website" width="200px" style="padding-right:10px;" src="assets/images/1.png" />
     </a>
     <a href="https://github.com/HMoana/Book-Your-Stay.git" title="Book Your Stay GitHub repository">
-    <img alt="Book Your Stay App" width="200px"  height="100px" style="padding-right:10px;" src="assets/images/2.png" />
+    <img alt="Book Your Stay App" width="100px"  height="200px" style="padding-right:10px;" src="assets/images/2.png" />
     </a>
     <a href="https://github.com/HMoana/Shopping-Easy.git" title="Shopping Easy GitHub repository">
-    <img alt="Shopping Easy App" width="100px" height="100px" style="padding-right:10px;" src="assets/images/3.png" />
+    <img alt="Shopping Easy App" width="100px" height="300px" style="padding-right:10px;" src="assets/images/3.png" />
     </a>
 </p>
 
@@ -62,6 +62,6 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 
 ####  Thanks for taking a peep! ✌️ 
 
-![wip](animation.gif)
+<!-- ![wip](animation.gif) -->
 ![Alt text](image-1.png)
 
