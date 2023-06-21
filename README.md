@@ -10,7 +10,7 @@
 
 ### 💬 About me
 
-```**`(Developer/Empath/Community)`**
+```**Developer/Empath/Community**
 
     - 👶🏽 Full stack newbie 
 
