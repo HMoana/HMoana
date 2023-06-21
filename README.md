@@ -1,5 +1,5 @@
 <h1 align="left">✌️ The Full Stack with Heni </h1>
-<h4 align="left"><em>Hi 👋🏽 I'm Hēni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
+<h4 align="left"><em>Hi 👋🏽 I'm Hēni and I am from Aotearoa New Zealand. I'm a newbie to the Full Stack world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
 <br />
 <a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
   <img alt="Heni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -48,9 +48,12 @@
 
 ### 📺 Projects 
 
-- [Metro Property Listing Website](https://github.com/HMoana/Metro.git)
+<!-- - [Metro Property Listing Website](https://github.com/HMoana/Metro.git)
 - [Book Your Stay App](https://github.com/HMoana/Book-Your-Stay.git)
-- [Shopping Easy App](https://github.com/HMoana/Shopping-Easy.git)
+- [Shopping Easy App](https://github.com/HMoana/Shopping-Easy.git) -->
+[![](https://img.shields.io/badge/-🔬%20Metro%20Listing%20Website-000)](https://github.com/HMoana/Metro.git)
+[![](https://img.shields.io/badge/-📝%20Book%20Your%20Stay%20App-000)](https://github.com/HMoana/Book-Your-Stay.git)
+[![](https://img.shields.io/badge/--🔊%20Shopping%20Easy%20App-000)](https://github.com/HMoana/Shopping-Easy.git)
 
 #
 
