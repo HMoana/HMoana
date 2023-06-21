@@ -63,4 +63,6 @@
 
 #
 
-<em><b>Thanks for stopping by 🙏🏽 I am a ...</b> :)</em><img src="https://media.giphy.com/media/Rd5z9ZnRYsLH47ZNdm/giphy.gif" width="200"> 
+<em><b>Thanks for stopping by 🙏🏽 I am a ...</b> :)</em>
+<br />
+<img src="https://media.giphy.com/media/Rd5z9ZnRYsLH47ZNdm/giphy.gif" width="500"> 
