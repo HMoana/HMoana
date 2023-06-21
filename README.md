@@ -1,11 +1,11 @@
 <h1 align="center">✌️ The Full Stack with Heni </h1>
 <h3 align="center">'I develop, my community develops'</h3>
-
-<a align="centre" href="https://www.linkedin.com/in/heni-kimura-b46133275/">
-  <img align="centre" alt="Heni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<br />
+<a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
+  <img alt="Heni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a align="centre" href="https://www.instagram.com/h.m.kimura/">
-  <img align="centre" alt="Heni's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/h.m.kimura/">
+  <img alt="Heni's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 ### 💬 About me
