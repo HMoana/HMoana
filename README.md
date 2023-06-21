@@ -62,7 +62,7 @@
 - SASS
 
 #
-
-<em><b>Thanks for stopping by 🙏🏽 I am a ...</b> :)</em>
 <br />
+<em><b>Thanks for stopping by 🙏🏽 I am a ...</b> :)</em>
+<br /><br />
 <img src="https://media.giphy.com/media/Rd5z9ZnRYsLH47ZNdm/giphy.gif" width="500"> 
