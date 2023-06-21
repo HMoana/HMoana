@@ -11,7 +11,6 @@
 ### 💬 About me
 
 **`(Developer/Empath/Community)`**
-<br />
 
 - 👶🏽 Full stack newbie 
 
@@ -19,18 +18,13 @@
 
 - 🫤 Backend web development ~ wip 
 
-<br />
 Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
-
-<br />
 
 ### 🦾 Perceived strengths = Focus
 
 - FRONT END DEVELOPMENT | ReactJS, HTML, CSS, JavaScript
 - BACKEND DEVELOPMENT | Express, NodeJS
 - MISCELLANEOUS | MongoDB 
-
-<br />
 
 ### 🧰 Languages and Technologies
 
@@ -44,22 +38,16 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-<br />
-
 ### 📺 Projects 
 
 - [Metro Property Listing Website](https://github.com/HMoana/Metro.git)
 - [Book Your Stay App](https://github.com/HMoana/Book-Your-Stay.git)
 - [Shopping Easy App](https://github.com/HMoana/Shopping-Easy.git)
 
-<br />
-
 ## 📚 Learning
 
 - Typescript
 - Backend authentications
-
-<br />
 
 ####  Thanks for taking a peep! ✌️ 
 
