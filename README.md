@@ -1,4 +1,4 @@
-<h1 align="left">✌️ The Full Stack with Heni </h1> <span><img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="50"></span>
+<h1 align="left">✌️ The Full Stack with Hēni</h1> 
 <h4 align="left"><em>Hi 👋🏽 I'm Hēni and I am from Aotearoa New Zealand. I'm a newbie to the Full Stack world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
 <br />
 <a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
