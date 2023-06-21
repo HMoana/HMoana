@@ -19,14 +19,15 @@
     - 🫤 Backend web development ~ wip
 ```
 
-Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
-
+```Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
+```
 
 ### 🦾 Perceived strengths = Focus
 
-- FRONT END DEVELOPMENT | ReactJS, HTML, CSS, JavaScript
+```- FRONT END DEVELOPMENT | ReactJS, HTML, CSS, JavaScript
 - BACKEND DEVELOPMENT | Express, NodeJS
 - MISCELLANEOUS | MongoDB 
+```
 
 #
 
@@ -52,17 +53,18 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 
 ### 📺 Projects 
 
-- [Metro Property Listing Website](https://github.com/HMoana/Metro.git)
+```- [Metro Property Listing Website](https://github.com/HMoana/Metro.git)
 - [Book Your Stay App](https://github.com/HMoana/Book-Your-Stay.git)
 - [Shopping Easy App](https://github.com/HMoana/Shopping-Easy.git)
-
+```
 
 ### 📚 Learning
 
-- Typescript
+```- Typescript
 - TDD
 - Backend Authentication
 - SASS
+```
 
 
 
