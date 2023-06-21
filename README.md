@@ -18,7 +18,7 @@
 
 - 🫤 Backend web development ~ wip
 
-### 🦾 Perceived strengths = Focus
+**`[🦾 Perceived strengths = Focus]`**
 
 - FRONT END DEVELOPMENT | ReactJS, HTML, CSS, JavaScript
 - BACKEND DEVELOPMENT | Express, NodeJS
@@ -61,4 +61,6 @@
 - Backend Authentication
 - SASS
 
-<img src="https://media.giphy.com/media/Rd5z9ZnRYsLH47ZNdm/giphy.gif" width="100"> <em><b>Thanks for stopping by...</b> :)</em>
+#
+
+<em><b>Thanks for stopping by 🙏🏽 I am a ...</b> :)</em><img src="https://media.giphy.com/media/Rd5z9ZnRYsLH47ZNdm/giphy.gif" width="200"> 
