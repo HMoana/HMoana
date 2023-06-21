@@ -10,15 +10,14 @@
 
 ### 💬 About me
 
+```**`(Developer/Empath/Community)`**
 
-**`(Developer/Empath/Community)`**
+    - 👶🏽 Full stack newbie 
 
-- 👶🏽 Full stack newbie 
+    - 💪🏽 Frontend web development ~ somewhat confident
 
-- 💪🏽 Frontend web development ~ somewhat confident
-
-- 🫤 Backend web development ~ wip
-
+    - 🫤 Backend web development ~ wip
+```
 
 Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
 
