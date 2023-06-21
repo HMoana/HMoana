@@ -56,14 +56,13 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 - [Book Your Stay App](https://github.com/HMoana/Book-Your-Stay.git)
 - [Shopping Easy App](https://github.com/HMoana/Shopping-Easy.git)
 
-#
 
-## 📚 Learning
+### 📚 Learning
 
 - Typescript
-- Backend authentications
+- TDD
+- Backend Authentication
+- SASS
 
-# 
 
-####  Thanks for taking a peep! ✌️ 
 
