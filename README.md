@@ -19,7 +19,7 @@
 - 🫤 Backend web development ~ wip
 
 
-Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
+    Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie full-stack web developer, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩
 
 
 ### 🦾 Perceived strengths = Focus
@@ -56,6 +56,7 @@ Hi 👋🏽 The name is Heni and I am from Aotearoa New Zealand. I'm a newbie fu
 - [Book Your Stay App](https://github.com/HMoana/Book-Your-Stay.git)
 - [Shopping Easy App](https://github.com/HMoana/Shopping-Easy.git)
 
+#
 
 ### 📚 Learning
 
