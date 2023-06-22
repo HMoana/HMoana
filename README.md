@@ -57,12 +57,6 @@
 - Backend Authentication
 - SASS
 
-<!--END_SECTION:-->
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=HMoana&theme=nord&no-frame=true&margin-w=10&column=7" />
-
 #
 <br />
 <em><b>Thanks for stopping by 🙏🏽 I am a ...</b> :)</em>
