@@ -1,6 +1,6 @@
 <img alt="Heni's Banner" src="https://github.com/HMoana/HMoana/blob/main/Banner.png" />
 <h1 align="left">✌️ Heni Moana Kimura</h1> 
-<h4 align="left"><em>Hi 👋🏽 I'm Heni and I am from Aotearoa New Zealand. newbie to the software development world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
+<h4 align="left"><em>Hi 👋🏽 I'm Heni and I am from Aotearoa New Zealand, and I'm a newbie to the software development world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
 <br />
 <a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
   <img alt="Heni on LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?sanitize=true" />
