@@ -2,7 +2,6 @@
 <h1 align="left">✌️ Heni Moana Kimura</h1> 
 <h4 align="left"><em>Hi 👋🏽 I'm Heni and I am from Aotearoa New Zealand, and I'm a newbie to the software development world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
 <br />
-
 ### 💬 About me
 
 **`[Crafting user-centric software solutions through deliverable outcomes and continuous growth]`**
