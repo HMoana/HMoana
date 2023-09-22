@@ -1,6 +1,6 @@
 <img alt="Heni's Banner" src="https://github.com/HMoana/HMoana/blob/main/Banner.png" />
 <h1 align="left">✌️ The Full Stack with Heni</h1> 
-<h4 align="left"><em>Hi 👋🏽 I'm Heni and I am from Aotearoa New Zealand. I'm a newbie to the Full Stack world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
+<h4 align="left"><em>Hi 👋🏽 I'm Heni and I am from Aotearoa New Zealand. newbie to the software development world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
 <br />
 <a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
   <img alt="Heni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -35,6 +35,7 @@
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img align="left" alt="Amazon Lex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonlex/amazonlex-plain.svg" />
 </p>
 
 <br/>
