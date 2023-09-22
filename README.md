@@ -11,9 +11,9 @@
 
 ### 💬 About me
 
-**`[Developer/Empath/Community]`**
+**`[Crafting user-centric software solutions through deliverable outcomes and continuous growth]`**
 
-- 👶🏽 Full stack newbie 
+- 👶🏽 Software developer newbie 
 
 - 💪🏽 Frontend web development ~ somewhat confident
 
@@ -35,7 +35,6 @@
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img align="left" alt="Amazon Lex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonlex/amazonlex-plain.svg" />
 </p>
 
 <br/>
@@ -44,8 +43,8 @@
 
 ### 📺 Projects 
 
-[![](https://img.shields.io/badge/-🏠%20Metro%20Listing%20App-000)](https://github.com/HMoana/Metro.git)
-[![](https://img.shields.io/badge/-🏩%20Book%20Your%20Stay%20App-000)](https://github.com/HMoana/Book-Your-Stay.git)
+[![](https://img.shields.io/badge/-🏩%20Nesia%20the%20Chatbot%20App-000)](https://github.com/HMoana/Nesia-the-chatbot.git)
+[![](https://img.shields.io/badge/-🏠%20Metro%20Listing%20App-000)](https://github.com/HMoana/Metro.gi)
 [![](https://img.shields.io/badge/-🛒%20Shopping%20Easy%20App-000)](https://github.com/HMoana/Shopping-Easy.git)
 [![](https://img.shields.io/badge/-📃%20Task%20It%20App-000)](https://github.com/HMoana/Task-It.git)
 
@@ -53,10 +52,7 @@
 
 ### 📚 Learning
 
-- Typescript
-- TDD
-- Backend Authentication
-- SASS
+- AWS Services
 
 #
 <br />
