@@ -1,19 +1,16 @@
 <img alt="Heni's Banner" src="https://github.com/HMoana/HMoana/blob/main/Banner.png" />
-<h1 align="left">✌️ The Full Stack with Hēni</h1> 
-<h4 align="left"><em>Hi 👋🏽 I'm Hēni and I am from Aotearoa New Zealand. I'm a newbie to the Full Stack world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
+<h1 align="left">✌️ Heni Moana Kimura</h1> 
+<h4 align="left"><em>Hi 👋🏽 I'm Heni and I am from Aotearoa New Zealand, and I'm a newbie to the software development world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
 <br />
 <a href="https://www.linkedin.com/in/heni-kimura-b46133275/">
-  <img alt="Heni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/h.m.kimura/">
-  <img alt="Heni's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img alt="Heni on LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?sanitize=true" />
 </a>
 
 ### 💬 About me
 
-**`[Developer/Empath/Community]`**
+**`[Crafting user-centric software solutions through deliverable outcomes and continuous growth]`**
 
-- 👶🏽 Full stack newbie 
+- 👶🏽 Software developer newbie 
 
 - 💪🏽 Frontend web development ~ somewhat confident
 
@@ -43,8 +40,8 @@
 
 ### 📺 Projects 
 
-[![](https://img.shields.io/badge/-🏠%20Metro%20Listing%20App-000)](https://github.com/HMoana/Metro.git)
-[![](https://img.shields.io/badge/-🏩%20Book%20Your%20Stay%20App-000)](https://github.com/HMoana/Book-Your-Stay.git)
+[![](https://img.shields.io/badge/-🏩%20Nesia%20the%20Chatbot%20App-000)](https://github.com/HMoana/Nesia-the-chatbot.git)
+[![](https://img.shields.io/badge/-🏠%20Metro%20Listing%20App-000)](https://github.com/HMoana/Metro.gi)
 [![](https://img.shields.io/badge/-🛒%20Shopping%20Easy%20App-000)](https://github.com/HMoana/Shopping-Easy.git)
 [![](https://img.shields.io/badge/-📃%20Task%20It%20App-000)](https://github.com/HMoana/Task-It.git)
 
@@ -52,10 +49,7 @@
 
 ### 📚 Learning
 
-- Typescript
-- TDD
-- Backend Authentication
-- SASS
+- AWS Services
 
 #
 <br />
