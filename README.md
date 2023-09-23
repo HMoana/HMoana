@@ -45,7 +45,10 @@
 
 ### 📚 Learning
 
-- AWS Services
+- AWS CloudUp for Hāpori Wāhine
+- SOLID Principles
+- Next.js
+- C#
 
 #
 <br />
