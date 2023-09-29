@@ -1,6 +1,6 @@
 <img alt="Heni's Banner" src="https://github.com/HMoana/HMoana/blob/main/Banner.png" />
 <h1 align="left">✌️ Heni Moana Kimura</h1> 
-<h4 align="left"><em>Kia ora, Hello 👋🏽 Ko Heni tooku ingoa, my name is Heni and I am from Aotearoa New Zealand. I'm a junior full stack developer, taking my first steps on a journey through the new and exciting world of tech. Take a look! 🤩</em></h5>
+<h4 align="left"><em>Kia ora, Hello 👋🏽 Ko Heni tooku ingoa, my name is Heni and I am from Aotearoa New Zealand. I'm a full stack developer, taking my first steps on a journey through the new and exciting world of tech. Take a look! 🤩</em></h5>
 
 ### 💬 About me
 
