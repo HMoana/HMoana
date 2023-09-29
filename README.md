@@ -1,16 +1,16 @@
 <img alt="Heni's Banner" src="https://github.com/HMoana/HMoana/blob/main/Banner.png" />
 <h1 align="left">✌️ Heni Moana Kimura</h1> 
-<h4 align="left"><em>Hi 👋🏽 I'm Heni and I am from Aotearoa New Zealand, and I'm a newbie to the software development world, thus narrowed my focus to areas of perceived strength until my experience grows. Take a look! 🤩</em></h5>
+<h4 align="left"><em>Kia ora, Hello 👋🏽 Ko Heni tooku ingoa, my name is Heni and I am from Aotearoa New Zealand. I'm a junior full stack developer, taking my first steps on a journey through the new and exciting world of tech. Take a look! 🤩</em></h5>
 
 ### 💬 About me
 
 **`[Crafting user-centric software solutions through deliverable outcomes and continuous growth]`**
 
-- 👶🏽 Software developer newbie 
+- 👶🏽 Full Stack Developer.
 
-- 💪🏽 Frontend web development ~ somewhat confident
+- 💪🏽 Frontend web development - React.js is my strength.
 
-- 🫤 Backend web development ~ wip
+- 💪🏽 Backend web development - Node.js and Express is my strength.
 
 #
 
@@ -47,7 +47,6 @@
 
 - AWS CloudUp for Hāpori Wāhine
 - SOLID Principles
-- Next.js
 - C#
 
 #
