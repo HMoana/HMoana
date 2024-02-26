@@ -1,6 +1,6 @@
 <img alt="Heni's Banner" src="https://github.com/HMoana/HMoana/blob/main/Banner.png" />
 <h1 align="left">✌️ Heni Moana Kimura</h1> 
-<h4 align="left"><em>Kia ora, Hello 👋🏽 Ko Heni tooku ingoa, my name is Heni and I am from Aotearoa New Zealand. I'm a full stack developer, taking my first steps on a journey through the new and exciting world of tech. Take a look! 🤩</em></h5>
+<h4 align="left"><em>Kia ora, Hello 👋🏽 Ko Heni tooku ingoa, my name is Heni and I am from Aotearoa New Zealand. I'm an aspiring software developer, taking my first steps on a journey through the new and exciting world of tech. Take a look! 🤩</em></h5>
 
 ### 💬 About me
 
@@ -11,6 +11,8 @@
 - 💪🏽 Frontend web development - React.js is my strength.
 
 - 💪🏽 Backend web development - Node.js and Express is my strength.
+
+- 👶🏽 Azure DevOps.
 
 #
 
@@ -45,9 +47,8 @@
 
 ### 📚 Learning
 
-- AWS CloudUp for Hāpori Wāhine
-- SOLID Principles
-- C#
+- Infrastructe as code using Terraform
+- Azure AZ-900 Fundamentals
 
 #
 <br />
