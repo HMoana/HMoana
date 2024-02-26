@@ -12,6 +12,8 @@
 
 - 💪🏽 Backend web development - Node.js and Express is my strength.
 
+- 👶🏽 Consuming APIs - WIP.
+
 - 👶🏽 Azure DevOps.
 
 #
