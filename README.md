@@ -50,8 +50,9 @@
 
 ### 📚 Learning
 
-- Infrastructe as code using Terraform
+- Infrastructure as code using Terraform
 - Azure AZ-900 Fundamentals
+- Agile Fundamentals Certification
 
 #
 <br />
